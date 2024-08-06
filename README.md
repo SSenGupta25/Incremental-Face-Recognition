@@ -3,7 +3,9 @@
 🌟 Excited to share my latest project on Incremental Learning Based Face Recognition! 🌟
 
 📌 **Project Title**: Incremental Learning-Based Face Recognition System
+
 🔍 **Objective**: Develop a dynamic face recognition system that continuously adapts to new faces without needing complete retraining.
+
 🚀 **Key Features**:
 - **Continuous Learning**: Updates model with new data, adapting to new faces and changes over time.
 - **Efficient Resource Usage**: Minimizes computational power needed for updates.
